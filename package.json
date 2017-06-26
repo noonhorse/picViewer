@@ -1,0 +1,28 @@
+{
+  "name": "H5Viewer",
+  "version": "0.0.1",
+  "description": "h5 Picture Viewer for mobile",
+  "main": "indexx.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noonhorse/h5viewer.git"
+  },
+  "keywords": [
+    "gesture",
+    "touch",
+    "multitouch"
+  ],
+  "author": "teenhe",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify": "^1.0.0"
+  }
+}
